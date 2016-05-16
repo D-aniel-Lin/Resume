@@ -23,7 +23,7 @@ body{overflow: hidden}
 aside{width:350px;height:680px;float:left}
 aside .aside_background
 {z-index:1;height:680px;width:350px;background:url(../image/article_background2_2.jpg) no-repeat;background-size:cover;position:absolute}
-aside .aside_background img{width:132px;height:175px;position:absolute;top:30px;left:109px}
+aside .aside_background img{width:150px;height:150px;position:absolute;top:60px;left:101px}
 aside .info{z-index:2;color:white;position:absolute;font:15px/2 'Arial';margin-top:200px}
 aside .info div{height:30px;width:350px;margin-left:0;margin-top:10px;}
 aside .info div p{height:30px}
